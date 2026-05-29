@@ -697,8 +697,8 @@
     "app_type": "mempool-watcher",
     "pr_number": 77,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/77",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xdc92bcd476412b6dfb090c4f7a04c7afeaf05a67d1ab05e29aec20ce5e04a469",
+    "vault_address": "0x500354329891392e5B0BF4DD013Fd6278c59d7AA",
+    "paid_at": "2026-05-29T15:02:48.929Z"
   }
 ]

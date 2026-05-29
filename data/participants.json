@@ -333,8 +333,8 @@
     "app_type": "offline-zine",
     "pr_number": 39,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/39",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xc550537f80bb61c701ca5373ce203e5492569a334010c7ff6e8712f7ee9fa770",
+    "vault_address": "0xEfbE5E774e18A4A80Cda1211C37036CAC68421b0",
+    "paid_at": "2026-05-29T11:48:39.384Z"
   }
 ]

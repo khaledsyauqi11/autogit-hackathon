@@ -151,8 +151,8 @@
     "app_type": "dream-log",
     "pr_number": 23,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/23",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x1e1f4b1b2fd9b2cec698fd5c87f94d37dae664aab5f6ff00f9b07c0e88b0b4da",
+    "vault_address": "0xfE8B0BF9ABBE12f03eB16733ff96Bfeec9C07e02",
+    "paid_at": "2026-05-29T09:53:16.030Z"
   }
 ]

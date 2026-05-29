@@ -50,5 +50,18 @@
     "tx_hash": "0x992d29c149b0aec672d0694d81aab00e73fd67672f6a0b8a353699a246ac79f8",
     "vault_address": "0xBdF06E3335C3D01eD8DAB71ea5232EAa6ed00Fb2",
     "paid_at": "2026-05-29T07:10:44.658Z"
+  },
+  {
+    "entry_number": 5,
+    "github_id": 288861336,
+    "github_login": "GitbankTest",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288861336?v=4",
+    "template_title": "PrivSend — Simple Private Token Transfer",
+    "app_type": "privsend",
+    "pr_number": 15,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/15",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]

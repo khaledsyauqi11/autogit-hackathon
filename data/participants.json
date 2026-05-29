@@ -401,5 +401,18 @@
     "tx_hash": "0xbffbb25b18f2f996e09d4a0ee2b8955fee722616d4a67a17ddfc9a8116425386",
     "vault_address": "0x90a206fEB8B7162752B1E84f37374401457E231b",
     "paid_at": "2026-05-29T12:21:50.822Z"
+  },
+  {
+    "entry_number": 32,
+    "github_id": 288930355,
+    "github_login": "wakitakii",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288930355?v=4",
+    "template_title": "Font Tester",
+    "app_type": "font-tester",
+    "pr_number": 47,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/47",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]

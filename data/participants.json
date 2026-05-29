@@ -242,8 +242,8 @@
     "app_type": "wpm-arena",
     "pr_number": 30,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/30",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xc4ca00a13ae1d070a519bfeee898140d518d7aa69f29ba3f9cf533e15bb37976",
+    "vault_address": "0x0e784ea5d485f3b959afa95Ef1A52D1d6230e569",
+    "paid_at": "2026-05-29T10:56:32.857Z"
   }
 ]

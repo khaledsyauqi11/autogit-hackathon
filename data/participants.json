@@ -853,8 +853,8 @@
     "app_type": "notes-app",
     "pr_number": 94,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/94",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x3be30ace06f31b0a439bdf076eaa6494fb37dd3f1363acc7f760298bf1d53ee0",
+    "vault_address": "0x5d99000E420513E4Cc22dd1338C8ad38d764a627",
+    "paid_at": "2026-05-29T15:51:46.763Z"
   }
 ]

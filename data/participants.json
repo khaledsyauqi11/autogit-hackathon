@@ -619,8 +619,8 @@
     "app_type": "habit-tracker-dashboard",
     "pr_number": 70,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/70",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x3a401828a599a43c7913387ef6c8d895145d68bfa6ee0d4189df09869b2fd902",
+    "vault_address": "0x8b4F4EF9ea0c047140AD21c83aDde44712Aac26c",
+    "paid_at": "2026-05-29T14:45:24.456Z"
   }
 ]

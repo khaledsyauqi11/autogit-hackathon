@@ -606,8 +606,8 @@
     "app_type": "ens-resolver",
     "pr_number": 67,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/67",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x9cc4ef08a99af409f228bebac9e5a92ff98d92d550ef23646c11258789b99870",
+    "vault_address": "0x31F8d9De418ed6ae8a744a4832E332A79C17a869",
+    "paid_at": "2026-05-29T14:36:25.838Z"
   }
 ]

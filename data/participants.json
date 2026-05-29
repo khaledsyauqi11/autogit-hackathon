@@ -128,5 +128,18 @@
     "tx_hash": "0x6ae88ff53690c79df7fb9fc64f8ae6627b6cf2b50e0ad484d4e628643e081795",
     "vault_address": "0x2ca63ffC8b2b03d36bA44a60E3E5B139401781aa",
     "paid_at": "2026-05-29T09:20:16.378Z"
+  },
+  {
+    "entry_number": 11,
+    "github_id": 195715118,
+    "github_login": "kaytherne",
+    "github_avatar": "https://avatars.githubusercontent.com/u/195715118?v=4",
+    "template_title": "Chord Explorer",
+    "app_type": "chord-explorer",
+    "pr_number": 22,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/22",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]

@@ -141,5 +141,18 @@
     "tx_hash": "0xb487dfc8854583f27e6bc84ecc8b6b9170767079c17a3b0407caa0529dbb44ed",
     "vault_address": "0xe45Cf15097C3908Dd9f32F2C83ebAAa6DaA964A0",
     "paid_at": "2026-05-29T09:36:35.126Z"
+  },
+  {
+    "entry_number": 12,
+    "github_id": 288896821,
+    "github_login": "ilovesusie79",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288896821?v=4",
+    "template_title": "Dream Log",
+    "app_type": "dream-log",
+    "pr_number": 23,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/23",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
